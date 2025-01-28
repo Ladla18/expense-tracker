@@ -8,7 +8,7 @@ const Header = () => {
       <nav className="container mx-auto px-6 py-4">
         <ul className="flex items-center justify-between">
           <li className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-600">
-            ExpenseTracker
+            ExpenseSplitter
           </li>
           <div className="flex space-x-6">
             {[
